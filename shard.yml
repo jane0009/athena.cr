@@ -1,0 +1,9 @@
+name: athena
+version: 0.1.0
+
+authors:
+  - Jane Petrovna <jane@j4.pm>
+
+crystal: 1.0.0
+
+license: MIT
