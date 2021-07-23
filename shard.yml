@@ -7,3 +7,11 @@ authors:
 crystal: 1.0.0
 
 license: MIT
+
+dependencies:
+  pg:
+    github: will/crystal-pg
+  redis:
+    github: stefanwille/crystal-redis
+  micrate:
+    github: amberframework/micrate

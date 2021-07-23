@@ -9,7 +9,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      athena:
-       github: your-github-user/athena
+       github: janeptrv/athena.cr
    ```
 
 2. Run `shards install`

@@ -1,2 +1,30 @@
 version: 2.0
-shards: {}
+shards:
+  db:
+    git: https://github.com/crystal-lang/crystal-db.git
+    version: 0.10.1
+
+  micrate:
+    git: https://github.com/amberframework/micrate.git
+    version: 0.11.0
+
+  mysql:
+    git: https://github.com/crystal-lang/crystal-mysql.git
+    version: 0.13.0
+
+  pg:
+    git: https://github.com/will/crystal-pg.git
+    version: 0.23.2
+
+  pool:
+    git: https://github.com/ysbaddaden/pool.git
+    version: 0.2.4
+
+  redis:
+    git: https://github.com/stefanwille/crystal-redis.git
+    version: 2.8.0
+
+  sqlite3:
+    git: https://github.com/crystal-lang/crystal-sqlite3.git
+    version: 0.18.0
+
